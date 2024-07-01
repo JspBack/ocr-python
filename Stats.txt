@@ -1,0 +1,9 @@
+V1
+Small_pdf_example(2 page)= 0:00:04.215582
+Medium_pdf_example(9 page)= 0:00:10.783544
+Large_pdf_example(23 page)= 0:00:51.233435
+
+V1-after-opt
+Small_pdf_example(2 page)= 0:00:03.947822(-6.35%)
+Medium_pdf_example(9 page)= 0:00:09.553257(-11.41%)
+Large_pdf_example(23 page)= 0:00:26.683302(-47.95%)
