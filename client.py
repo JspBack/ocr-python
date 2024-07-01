@@ -6,9 +6,9 @@ from datetime import datetime
 url = 'http://localhost:5000/extract_text'
 
 # Choose your PDF file path
-# pdf_file_path = 'data/large_example.pdf'
+pdf_file_path = 'data/large_example.pdf'
 # pdf_file_path = 'data/small_example.pdf'
-pdf_file_path = 'data/medium_example.pdf'
+# pdf_file_path = 'data/medium_example.pdf'
 
 pdf_file_name = os.path.basename(pdf_file_path)
 
